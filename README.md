@@ -1,4 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Important Notes` 
+To Use it you have to make a databaseConfig.js file in root folder which is api key of your firebase project Config like below
+
+![api key](https://user-images.githubusercontent.com/52502909/95294155-66ed3080-0892-11eb-91a6-307779175432.png)
+
+And now yo are good to go.
+
+## `Some Screenshots`
+
+AuthScreen
+![JoyChat and 1 more page - Personal - Microsoft​ Edge 07-10-2020 11_45_30 (2)](https://user-images.githubusercontent.com/52502909/95294510-09a5af00-0893-11eb-9408-5908ef4a8af2.png)
+
+MainScreen
+![JoyChat and 1 more page - Personal - Microsoft​ Edge 07-10-2020 11_47_19 (2)](https://user-images.githubusercontent.com/52502909/95294517-0c080900-0893-11eb-9946-8ea5b017d3b5.png)
+
+Add Friend
+![JoyChat and 1 more page - Personal - Microsoft​ Edge 07-10-2020 11_50_04 (2)](https://user-images.githubusercontent.com/52502909/95294655-4e314a80-0893-11eb-9aa3-796f410025fe.png)
 
 ## Available Scripts
 
