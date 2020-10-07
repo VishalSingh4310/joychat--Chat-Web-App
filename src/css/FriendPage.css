@@ -1,0 +1,30 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  height: 100vh;
+  font-family: "poppins";
+}
+.addFriendContainer {
+  /* padding:0 0.5rem 0 0.5rem; */
+  overflow-x: hidden;
+  overflow-y: auto;
+  min-width: 200px;
+  height: 100vh;
+  border-right: 1px solid #dbdbdb;
+  background-color: #f9f9f9;
+}
+
+.friendInputContainer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 0.5rem 0 0.5rem;
+  background-color: rgb(3, 87, 79);
+}
+
+.chatContainer {
+  position: relative;
+  overflow: auto;
+  height: 100vh;
+  min-width: 400px;
+}
